@@ -4,3 +4,7 @@
 - 🌱 I am a member of [WizardLM (WizardCoder)](https://twitter.com/WizardLM_AI). Our goal is to progressively improve the performance of LLaMA and StarCoder to SOTA LLMs with open-source community. Follow our progress on [Twitter](https://twitter.com/WizardLM_AI).
 - 🤔 I am seeking a place to be a visiting PhD student next year. If you are interested in my work, please contact me.
 - 📫 Email: [cszyluo@comp.hkbu.edu.hk](mailto:cszyluo@comp.hkbu.edu.hk)
+
+## 🔰 Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiYeungLaw)](https://github.com/anuraghazra/github-readme-stats)
